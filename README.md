@@ -1,9 +1,8 @@
-# Multiplayer snake game using AWS
-A real-time multiplayer snake game built using Java sockets
-and deployed on an AWS EC2 server.
+Multiplayer Snake Game using AWS
 
-## Features
+A real-time multiplayer Snake game built using Java sockets and deployed on an AWS EC2 server.
 
+Features
 - Multiplayer gameplay
 - Snake growth
 - Food spawning
@@ -11,9 +10,13 @@ and deployed on an AWS EC2 server.
 - Score tracking
 - Java Swing GUI
 
-## Technologies
+Technologies
+- Java
+- AWS EC2
+- TCP sockets
+- SSH
+- Java Swing
 
-Java
-AWS EC2
-TCP sockets
-SSH
+Authors
+- Karthekeshav
+- Alwinn Yujin
