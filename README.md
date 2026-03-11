@@ -1,4 +1,4 @@
-# snake-with-multiplayer-using-AWS
+# Multiplayer snake game using AWS
 A real-time multiplayer snake game built using Java sockets
 and deployed on an AWS EC2 server.
 
